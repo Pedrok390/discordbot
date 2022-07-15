@@ -1,9 +1,9 @@
 {
   "TOKEN": "",
-  "MAX_PLAYLIST_SIZE": 10,
-  "PREFIX": "!",
+  "MAX_PLAYLIST_SIZE": 20,
+  "PREFIX": ".",
   "PRUNING": false,
   "LOCALE": "en",
-  "STAY_TIME": 30,
+  "STAY_TIME": 60,
   "DEFAULT_VOLUME": 100
 }
